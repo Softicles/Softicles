@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&theme=gruvbox_light&height=300&section=header&text=Hello%20there!&fontSize=90" margin="auto"/>
 
 ---
+
+## <img src="https://cdn4.iconfinder.com/data/icons/women-health-3/95/Focused-512.png" width="25px" height="25px"> **About Me**
 <!--
 **Softicles/Softicles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

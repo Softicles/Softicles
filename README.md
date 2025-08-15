@@ -2,7 +2,7 @@
 
 ## <img src="https://cdn1.iconfinder.com/data/icons/hand-gestures-color/128/hand-wave-y-1024.png" width="30px" height="30px"> About Me:
 
-- I'm Thinh Nguyen, an undergraduate student majoring in **Computer Science** with the threads **Intelligence** and **Theory** at Georgia Institute of Technology!
+- I'm Thinh Nguyen, an undergraduate student majoring in **Computer Science** with **Intelligence** and **Theory** threads at Georgia Institute of Technology!
   
 - I'm currently interested in **Full Stack Development**, particularly **React**, **Node.js**, and **Express**.
   

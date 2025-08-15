@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there <img width="25px" height="25px" alt="waving-hand" src="https://github.com/user-attachments/assets/7b2ae5c3-daf9-4095-bd7c-20124d1519ec" />
+
 
 <!--
 **Softicles/Softicles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

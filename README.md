@@ -23,7 +23,7 @@
 
 ## <img src="https://cdn2.iconfinder.com/data/icons/future-planning-3/64/plan_time_management_future_target_objective-512.png" width="30px" height="30px" /> Future Plans:
 
-- Finishing the course [IBM Full Stack Software Developer](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer) where I will learn **React**, **Node.js**, **Express**.
+- Finishing the course [IBM Full Stack Software Developer](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer).
   
 - Looking for Spring/Summer 2026 Internships.
 

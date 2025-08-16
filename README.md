@@ -29,13 +29,21 @@
 - Looking for a Spring/Summer 2026 internship.
 
 ## <img src="https://cdn1.iconfinder.com/data/icons/icons-for-a-site-1/64/advantage_teamwork-512.png" width="30px" height="30px"> Let's Connect!
+<table style="border: transparent">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/thinh-nguyen-025558285/"> 
+        <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" width="30px" height="30px"/>
+      </a>
+    </td>
+    <td>
+      <a href="mailto: tnguyen831@gatech.edu">
+        <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/74-outlook-512.png" width="30px" height="30px"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://www.linkedin.com/in/thinh-nguyen-025558285/"> 
-  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" width="30px" height="30px"/>
-</a><br/>
 
-<a href="mailto: tnguyen831@gatech.edu">
-  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/74-outlook-512.png" width="30px" height="30px"/>
-</a>
 
 

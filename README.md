@@ -29,7 +29,7 @@
 - Looking for a Spring/Summer 2026 internship.
 
 ## <img src="https://cdn1.iconfinder.com/data/icons/icons-for-a-site-1/64/advantage_teamwork-512.png" width="30px" height="30px"> Let's Connect!
-<table style="border: transparent">
+<table style="border: none">
   <tr>
     <td>
       <a href="https://www.linkedin.com/in/thinh-nguyen-025558285/"> 

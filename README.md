@@ -2,9 +2,9 @@
 
 ## <img src="https://cdn1.iconfinder.com/data/icons/hand-gestures-color/128/hand-wave-y-1024.png" width="30px" height="30px"> About Me:
 
-- I'm Thinh Nguyen, an undergraduate student majoring in **Computer Science** with **Intelligence** and **Theory** threads at Georgia Institute of Technology!
+- I'm Thinh Nguyen, an undergraduate student majoring in **Computer Science** with **Intelligence** and **Theory** threads at Georgia Institute of Technology.
   
-- I'm currently interested in **Full Stack Development**, particularly **React**, **Node.js**, and **Express**.
+- I'm currently interested in **Full Stack Development**, my current goal now is to make a personal portfolio website.
   
 - I love playing piano, badminton, and running!
 
@@ -13,6 +13,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&color=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&color=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&color=black)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=black)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&color=black)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=black)

@@ -38,7 +38,7 @@
 
 - Finishing the course [IBM Full Stack Software Developer](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer).
   
-- Looking for a Spring/Summer 2026 internship.
+- Looking for Spring/Summer 2026 internships.
 
 ## <img src="https://cdn1.iconfinder.com/data/icons/icons-for-a-site-1/64/advantage_teamwork-512.png" width="30px" height="30px"> Let's Connect!
 <table style="border: none">

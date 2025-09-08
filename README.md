@@ -50,7 +50,7 @@
     </td>
     <td>
       <a href="mailto: tnguyen831@gatech.edu">
-        <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/74-outlook-512.png" width="30px" height="30px"/>
+        <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-1024.png" width="30px" height="30px"/>
       </a>
     </td>
   </tr>

@@ -4,7 +4,7 @@
 
 - I'm Thinh Nguyen, an undergraduate student majoring in **Computer Science** with **Intelligence** and **Theory** threads at Georgia Institute of Technology.
   
-- I'm currently interested in **Full Stack Development**, my current goal now is to make a personal portfolio website.
+- I'm currently interested in **Machine Learning** and **Full Stack Development**, my current goal now is to implement "Photo Album" page for my Personal Website.
   
 - I love playing piano, badminton, and running!
 

@@ -35,10 +35,8 @@
 
 
 ## <img src="https://cdn2.iconfinder.com/data/icons/future-planning-3/64/plan_time_management_future_target_objective-512.png" width="30px" height="30px" /> Future Plans:
-
-- Finishing the course [IBM Full Stack Software Developer](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer).
   
-- Looking for 2026 internships / co-op / full-time opportunities.
+- Looking for Summer and Fall 2026 internships / co-op / full-time opportunities.
 
 ## <img src="https://cdn1.iconfinder.com/data/icons/icons-for-a-site-1/64/advantage_teamwork-512.png" width="30px" height="30px"> Let's Connect!
 <table style="border: none">
